@@ -1,3 +1,6 @@
 Just a tests to create a PR and attempt to merge it!
 
 Second PR test here.
+
+And here it comes a third PR on a new branch on top of the second PR branch.
+How will it handle it???
